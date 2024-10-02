@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Spells",
+        "name": "Spells",
+        "desc": "Use a learned spell.",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "ability",
+                "Spells"
+            ],
+            [
+                "hidden",
+                null
+            ]
+        ]
+    }
+]

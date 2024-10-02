@@ -1,0 +1,15 @@
+[
+    {
+        "name": "MercifulStrike",
+        "trigger": "combat_start",
+        "level_nid": null,
+        "condition": "unit.nid == 'Hex' and has_skill(unit, 'MercifulStrike')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "give_skill;{unit2};TrueMiracleSkill;no_banner",
+            "end"
+        ]
+    }
+]

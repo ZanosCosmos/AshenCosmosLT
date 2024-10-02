@@ -1,0 +1,21 @@
+[
+    {
+        "nid": "Spells",
+        "name": "Spells",
+        "desc": "Cast one of your learned spells.",
+        "icon_nid": "Light",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "multi_item",
+                [
+                    "Lightning",
+                    "Heal"
+                ]
+            ]
+        ]
+    }
+]

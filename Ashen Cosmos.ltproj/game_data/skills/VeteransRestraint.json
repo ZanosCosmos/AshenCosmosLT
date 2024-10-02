@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "VeteransRestraint",
+        "name": "Veteran's Restraint",
+        "desc": "Allows use of the Merciful Strike Combat Art.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "combat_art",
+                "MercifulStrike"
+            ],
+            [
+                "cost_mana",
+                1
+            ]
+        ]
+    }
+]

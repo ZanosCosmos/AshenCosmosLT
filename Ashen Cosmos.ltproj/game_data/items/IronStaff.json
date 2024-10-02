@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "IronStaff",
+        "name": "Iron Staff",
+        "desc": "",
+        "icon_nid": "Staff",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "equippable_accessory",
+                null
+            ]
+        ]
+    }
+]

@@ -1,0 +1,223 @@
+[
+    {
+        "nid": "Sword",
+        "name": "Sword",
+        "force_melee_anim": false,
+        "rank_bonus": [],
+        "advantage": [
+            {
+                "weapon_type": "Axe",
+                "weapon_rank": "All",
+                "damage": "1",
+                "resist": "0",
+                "accuracy": "15",
+                "avoid": "0",
+                "crit": "0",
+                "dodge": "0",
+                "attack_speed": "0",
+                "defense_speed": "0"
+            }
+        ],
+        "disadvantage": [
+            {
+                "weapon_type": "Lance",
+                "weapon_rank": "All",
+                "damage": "-1",
+                "resist": "0",
+                "accuracy": "-15",
+                "avoid": "0",
+                "crit": "0",
+                "dodge": "0",
+                "attack_speed": "0",
+                "defense_speed": "0"
+            }
+        ],
+        "icon_nid": "AffinityAndRank",
+        "icon_index": [
+            0,
+            1
+        ]
+    },
+    {
+        "nid": "Lance",
+        "name": "Lance",
+        "force_melee_anim": false,
+        "rank_bonus": [],
+        "advantage": [
+            {
+                "weapon_type": "Sword",
+                "weapon_rank": "All",
+                "damage": "1",
+                "resist": "0",
+                "accuracy": "15",
+                "avoid": "0",
+                "crit": "0",
+                "dodge": "0",
+                "attack_speed": "0",
+                "defense_speed": "0"
+            }
+        ],
+        "disadvantage": [
+            {
+                "weapon_type": "Axe",
+                "weapon_rank": "All",
+                "damage": "-1",
+                "resist": "0",
+                "accuracy": "-15",
+                "avoid": "0",
+                "crit": "0",
+                "dodge": "0",
+                "attack_speed": "0",
+                "defense_speed": "0"
+            }
+        ],
+        "icon_nid": "AffinityAndRank",
+        "icon_index": [
+            1,
+            1
+        ]
+    },
+    {
+        "nid": "Axe",
+        "name": "Axe",
+        "force_melee_anim": false,
+        "rank_bonus": [],
+        "advantage": [
+            {
+                "weapon_type": "Lance",
+                "weapon_rank": "All",
+                "damage": "1",
+                "resist": "0",
+                "accuracy": "15",
+                "avoid": "0",
+                "crit": "0",
+                "dodge": "0",
+                "attack_speed": "0",
+                "defense_speed": "0"
+            }
+        ],
+        "disadvantage": [
+            {
+                "weapon_type": "Sword",
+                "weapon_rank": "All",
+                "damage": "-1",
+                "resist": "0",
+                "accuracy": "-15",
+                "avoid": "0",
+                "crit": "0",
+                "dodge": "0",
+                "attack_speed": "0",
+                "defense_speed": "0"
+            }
+        ],
+        "icon_nid": "AffinityAndRank",
+        "icon_index": [
+            2,
+            1
+        ]
+    },
+    {
+        "nid": "Bow",
+        "name": "Bow",
+        "force_melee_anim": false,
+        "rank_bonus": [],
+        "advantage": [],
+        "disadvantage": [],
+        "icon_nid": "AffinityAndRank",
+        "icon_index": [
+            3,
+            1
+        ]
+    },
+    {
+        "nid": "BlackMagic",
+        "name": "Black Magic",
+        "force_melee_anim": false,
+        "rank_bonus": [],
+        "advantage": [
+            {
+                "weapon_type": "Light",
+                "weapon_rank": "All",
+                "damage": "1",
+                "resist": "0",
+                "accuracy": "15",
+                "avoid": "0",
+                "crit": "0",
+                "dodge": "0",
+                "attack_speed": "0",
+                "defense_speed": "0"
+            }
+        ],
+        "disadvantage": [
+            {
+                "weapon_type": "BlackMagic",
+                "weapon_rank": "All",
+                "damage": "-1",
+                "resist": "0",
+                "accuracy": "-15",
+                "avoid": "0",
+                "crit": "0",
+                "dodge": "0",
+                "attack_speed": "0",
+                "defense_speed": "0"
+            }
+        ],
+        "icon_nid": "AffinityAndRank",
+        "icon_index": [
+            3,
+            2
+        ]
+    },
+    {
+        "nid": "Light",
+        "name": "White Magic",
+        "force_melee_anim": false,
+        "rank_bonus": [],
+        "advantage": [
+            {
+                "weapon_type": "BlackMagic",
+                "weapon_rank": "All",
+                "damage": "1",
+                "resist": "0",
+                "accuracy": "15",
+                "avoid": "0",
+                "crit": "0",
+                "dodge": "0",
+                "attack_speed": "0",
+                "defense_speed": "0"
+            }
+        ],
+        "disadvantage": [
+            {
+                "weapon_type": "BlackMagic",
+                "weapon_rank": "All",
+                "damage": "-1",
+                "resist": "0",
+                "accuracy": "-15",
+                "avoid": "0",
+                "crit": "0",
+                "dodge": "0",
+                "attack_speed": "0",
+                "defense_speed": "0"
+            }
+        ],
+        "icon_nid": "AffinityAndRank",
+        "icon_index": [
+            2,
+            2
+        ]
+    },
+    {
+        "nid": "Default",
+        "name": "Consumable",
+        "force_melee_anim": false,
+        "rank_bonus": [],
+        "advantage": [],
+        "disadvantage": [],
+        "icon_nid": "AffinityAndRank",
+        "icon_index": [
+            8,
+            2
+        ]
+    }
+]

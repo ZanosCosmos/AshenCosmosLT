@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "MutualTrust",
+        "name": "Mutual Trust",
+        "desc": "When healing an ally's HP, this unit also receives the healing.",
+        "icon_nid": "Skills",
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "live_to_serve",
+                1.0
+            ],
+            [
+                "class_skill",
+                null
+            ]
+        ]
+    }
+]

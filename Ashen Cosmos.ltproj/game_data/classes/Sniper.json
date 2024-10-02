@@ -1,0 +1,134 @@
+[
+    {
+        "nid": "Sniper",
+        "name": "Sniper",
+        "desc": "Devotees of the bow. Possess incredible range.",
+        "tier": 2,
+        "movement_group": "Light Foot",
+        "promotes_from": "Archer",
+        "turns_into": [],
+        "tags": [],
+        "max_level": 20,
+        "bases": {
+            "HP": 21,
+            "SPD": 7,
+            "LCK": 0,
+            "DEF": 5,
+            "RES": 3,
+            "CON": 8,
+            "MOV": 6,
+            "POW": 7,
+            "LTH": 0,
+            "DEX": 6
+        },
+        "growths": {
+            "HP": 65,
+            "SPD": 20,
+            "LCK": 30,
+            "DEF": 15,
+            "RES": 25,
+            "CON": 0,
+            "MOV": 0,
+            "POW": 30,
+            "LTH": 0,
+            "DEX": 30
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0,
+            "POW": 0,
+            "LTH": 0,
+            "DEX": 0
+        },
+        "promotion": {
+            "HP": 4,
+            "SPD": 2,
+            "LCK": 0,
+            "DEF": 2,
+            "RES": 3,
+            "CON": 1,
+            "MOV": -99,
+            "POW": 3,
+            "LTH": 0,
+            "DEX": 2
+        },
+        "max_stats": {
+            "HP": 60,
+            "SPD": 29,
+            "LCK": 30,
+            "DEF": 25,
+            "RES": 24,
+            "CON": 20,
+            "MOV": 30,
+            "POW": 25,
+            "LTH": 20,
+            "DEX": 30
+        },
+        "learned_skills": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                true,
+                40,
+                251
+            ],
+            "BlackMagic": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ]
+        },
+        "icon_nid": "Generic_Portrait_Sniper",
+        "icon_index": [
+            0,
+            0
+        ],
+        "map_sprite_nid": "Sniper",
+        "combat_anim_nid": "Sniper",
+        "fields": []
+    }
+]

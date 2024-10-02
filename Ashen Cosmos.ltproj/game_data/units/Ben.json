@@ -1,0 +1,124 @@
+[
+    {
+        "nid": "Ben",
+        "name": "Ben",
+        "desc": "Leader of a mercenary company\nwho has a flair for theatrics.",
+        "variant": null,
+        "level": 1,
+        "klass": "Mercenary",
+        "tags": [],
+        "bases": {
+            "HP": 32,
+            "SPD": 4,
+            "LCK": 2,
+            "DEF": 3,
+            "CON": 9,
+            "MOV": 4,
+            "RES": 1,
+            "POW": 6,
+            "LTH": 0,
+            "DEX": 3
+        },
+        "growths": {
+            "HP": 80,
+            "SPD": 50,
+            "LCK": 40,
+            "DEF": 25,
+            "CON": 0,
+            "MOV": 0,
+            "RES": 20,
+            "POW": 40,
+            "LTH": 20,
+            "DEX": 40
+        },
+        "stat_cap_modifiers": {
+            "SPD": 0,
+            "MOV": 0,
+            "HP": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "LCK": 0,
+            "POW": 0,
+            "LTH": 0,
+            "DEX": 0
+        },
+        "starting_items": [
+            [
+                "Iron_Sword",
+                false
+            ],
+            [
+                "HeavyBlade",
+                false
+            ],
+            [
+                "Vulnerary",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "BurningJustice"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                true,
+                31,
+                251
+            ],
+            "Lance": [
+                true,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ],
+            "BlackMagic": [
+                false,
+                0,
+                251
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "BenNeutral",
+        "affinity": "Fire",
+        "fields": []
+    }
+]

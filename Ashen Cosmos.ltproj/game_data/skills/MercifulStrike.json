@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "MercifulStrike",
+        "name": "Merciful Strike",
+        "desc": "",
+        "icon_nid": null,
+        "icon_index": [
+            0,
+            0
+        ],
+        "components": [
+            [
+                "give_status_after_hit",
+                "TrueMiracleSkill"
+            ]
+        ]
+    }
+]

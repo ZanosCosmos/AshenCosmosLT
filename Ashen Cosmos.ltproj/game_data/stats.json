@@ -1,0 +1,82 @@
+[
+    {
+        "nid": "HP",
+        "name": "HP",
+        "maximum": 60,
+        "desc": "Hit points. The unit is removed from the battle if HP reaches 0.",
+        "position": "hidden",
+        "growth_colors": false
+    },
+    {
+        "nid": "POW",
+        "name": "Pow",
+        "maximum": 30,
+        "desc": "Power. Affects damage of attacks and potency of certain spells.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "DEX",
+        "name": "Dex",
+        "maximum": 30,
+        "desc": "Dexterity. Each point gives +5 Hit.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "LTH",
+        "name": "Lth",
+        "maximum": 30,
+        "desc": "Lethality. Every 2 points gives 1 crit.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "SPD",
+        "name": "Spd",
+        "maximum": 30,
+        "desc": "Speed. Every 2 points give 1 Avoid. If you have 4+ more than your opponent, perform a double attack.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "LCK",
+        "name": "Lck",
+        "maximum": 30,
+        "desc": "Luck. Every point gives 1 Dodge.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "DEF",
+        "name": "Def",
+        "maximum": 30,
+        "desc": "Defense. Lowers damage taken from physical weapons.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "RES",
+        "name": "Res",
+        "maximum": 30,
+        "desc": "Resistance. Lowers damage taken by spells.",
+        "position": "left",
+        "growth_colors": false
+    },
+    {
+        "nid": "CON",
+        "name": "Con",
+        "maximum": 25,
+        "desc": "Constitution. Affects how well the unit can wield heavier weapons.",
+        "position": "right",
+        "growth_colors": false
+    },
+    {
+        "nid": "MOV",
+        "name": "Mov",
+        "maximum": 15,
+        "desc": "Movement. How many tiles you can move without restriction.",
+        "position": "right",
+        "growth_colors": false
+    }
+]
