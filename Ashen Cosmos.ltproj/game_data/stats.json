@@ -24,14 +24,6 @@
         "growth_colors": false
     },
     {
-        "nid": "LTH",
-        "name": "Lth",
-        "maximum": 30,
-        "desc": "Lethality. Every 2 points gives 1 crit.",
-        "position": "left",
-        "growth_colors": false
-    },
-    {
         "nid": "SPD",
         "name": "Spd",
         "maximum": 30,

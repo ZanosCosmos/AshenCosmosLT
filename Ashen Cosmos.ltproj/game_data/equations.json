@@ -25,7 +25,7 @@
     },
     {
         "nid": "CRIT_HIT",
-        "expression": "LTH*2"
+        "expression": "0"
     },
     {
         "nid": "CRIT_AVOID",
@@ -65,7 +65,7 @@
     },
     {
         "nid": "RATING",
-        "expression": "(HP - 10)//2 + max(STR, MAG) + SKL + SPD + LCK//2 + DEF + RES"
+        "expression": "0"
     },
     {
         "nid": "RESCUE_AID",

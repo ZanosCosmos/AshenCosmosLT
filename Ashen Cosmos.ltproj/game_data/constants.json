@@ -92,6 +92,10 @@
         true
     ],
     [
+        "alt_growth_format",
+        false
+    ],
+    [
         "glancing_hit",
         false
     ],

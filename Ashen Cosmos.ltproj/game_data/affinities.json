@@ -49,10 +49,10 @@
                 "defense_speed": 0.0
             }
         ],
-        "icon_nid": "Affinity",
+        "icon_nid": "AffinityAndRank",
         "icon_index": [
             0,
-            4
+            0
         ]
     },
     {
@@ -94,9 +94,9 @@
                 "defense_speed": 0.0
             }
         ],
-        "icon_nid": "Affinity",
+        "icon_nid": "AffinityAndRank",
         "icon_index": [
-            0,
+            1,
             0
         ]
     },
@@ -139,10 +139,10 @@
                 "defense_speed": 0.0
             }
         ],
-        "icon_nid": "Affinity",
+        "icon_nid": "AffinityAndRank",
         "icon_index": [
-            0,
-            7
+            3,
+            0
         ]
     },
     {
@@ -184,10 +184,10 @@
                 "defense_speed": 0.0
             }
         ],
-        "icon_nid": "Affinity",
+        "icon_nid": "AffinityAndRank",
         "icon_index": [
-            0,
-            5
+            2,
+            0
         ]
     },
     {
@@ -229,10 +229,10 @@
                 "defense_speed": 0.0
             }
         ],
-        "icon_nid": "Affinity",
+        "icon_nid": "AffinityAndRank",
         "icon_index": [
-            0,
-            1
+            6,
+            0
         ]
     },
     {
@@ -274,15 +274,15 @@
                 "defense_speed": 0.0
             }
         ],
-        "icon_nid": "Affinity",
+        "icon_nid": "AffinityAndRank",
         "icon_index": [
-            0,
-            6
+            5,
+            0
         ]
     },
     {
-        "nid": "Anima",
-        "name": "Anima",
+        "nid": "Earth",
+        "name": "Earth",
         "desc": "Grants increased attack, defense, avoid, and crit avoid.",
         "bonus": [
             {
@@ -319,10 +319,10 @@
                 "defense_speed": 0.0
             }
         ],
-        "icon_nid": "Affinity",
+        "icon_nid": "AffinityAndRank",
         "icon_index": [
-            0,
-            8
+            4,
+            0
         ]
     }
 ]
